@@ -12,7 +12,7 @@ Common Functionality framework for flab and cerra
                    DESC
 
   spec.homepage     = "https://github.com/suyeshkandpal28/CommonLocalizationFramework"
-  spec.license      = "MIT (example)"
+  spec.license      = "MIT"
   spec.author             = { "Suyesh Kandpal" => "suyesh.kandpal@stu.upes.ac.in" }
 
   spec.ios.deployment_target = "11.0"
