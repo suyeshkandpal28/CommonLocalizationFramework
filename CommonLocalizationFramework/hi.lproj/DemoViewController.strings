@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "ISSUE"; ObjectID = "Mrj-Ia-Hyl"; */
+"Mrj-Ia-Hyl.text" = "मुद्दा";
+
+/* Class = "UILabel"; text = "POST"; ObjectID = "U8F-A7-Sj0"; */
+"U8F-A7-Sj0.text" = "पद";
+
+/* Class = "UILabel"; text = "MINOR"; ObjectID = "XRi-oi-NXd"; */
+"XRi-oi-NXd.text" = "अवयस्क";
+
+/* Class = "UILabel"; text = "Common"; ObjectID = "r21-wn-gz0"; */
+"r21-wn-gz0.text" = "सामान्य";
