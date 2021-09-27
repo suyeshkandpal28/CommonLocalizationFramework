@@ -15,7 +15,7 @@ public class TestingLocalizationManager {
     public func getDemoViewContainer() -> UIViewController{
         let vc =  DemoViewController(
             nibName: "DemoViewController",
-            bundle: Bundle(for: DemoViewController.self)
+            bundle: Bundle(for: type(of: self))
         )
         return vc
     }
