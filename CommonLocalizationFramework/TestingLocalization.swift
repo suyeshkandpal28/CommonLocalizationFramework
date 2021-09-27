@@ -9,9 +9,7 @@ import Foundation
 import UIKit
 
 public class TestingLocalizationManager {
-    
     public static let sharedInstance = TestingLocalizationManager()
-    
     public func getDemoViewContainer() -> UIViewController{
         let vc =  DemoViewController(
             nibName: "DemoViewController",
