@@ -8,10 +8,25 @@
 import UIKit
 
 class DemoViewController: UIViewController {
+    
+    @IBOutlet weak var label1 : UILabel!
+    @IBOutlet weak var label2 : UILabel!
+    @IBOutlet weak var label3 : UILabel!
+    @IBOutlet weak var label4 : UILabel!
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        print(label1.text)
+        print(label1.text?.localized)
+        
+        print(label2.text)
+        print(label2.text?.localized)
+        
+        print(label3.text)
+        print(label3.text?.localized)
+        
+        print(label4.text)
+        print(label4.text?.localized)
         // Do any additional setup after loading the view.
     }
 
@@ -26,4 +41,9 @@ class DemoViewController: UIViewController {
     }
     */
 
+}
+extension String {
+    var localized: String {
+        return NSLocalizedString(self, comment: "")
+    }
 }

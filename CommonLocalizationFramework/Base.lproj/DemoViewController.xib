@@ -9,6 +9,10 @@
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="DemoViewController" customModule="CommonLocalizationFramework" customModuleProvider="target">
             <connections>
+                <outlet property="label1" destination="U8F-A7-Sj0" id="Pee-QJ-uT6"/>
+                <outlet property="label2" destination="XRi-oi-NXd" id="7d4-pf-D8C"/>
+                <outlet property="label3" destination="r21-wn-gz0" id="ZlP-pu-SNG"/>
+                <outlet property="label4" destination="Mrj-Ia-Hyl" id="9kw-3Q-rz1"/>
                 <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
             </connections>
         </placeholder>
