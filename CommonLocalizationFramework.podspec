@@ -19,7 +19,7 @@ Common Functionality framework for flab and cerra
   spec.swift_version = "4.2"
 
   spec.source        = { :git => "https://github.com/suyeshkandpal28/CommonLocalizationFramework.git", :branch => "master", :tag => spec.version.to_s }
-  spec.source_files  = "CommonLocalizationFramework/**/*.{h,m,swift}",'CommonLocalizationFramework/*.lproj/*.strings','CommonLocalizationFramework/**/*.lproj/*.strings'
+  spec.source_files  = "CommonLocalizationFramework/**/*.{h,m,swift}",'CommonLocalizationFramework/*.lproj/*.strings','CommonLocalizationFramework/**/*.lproj/*.strings',"CommonLocalizationFramework/**/*.{xib,png,jpg,jpeg,storyboard}"
 
 end
   
