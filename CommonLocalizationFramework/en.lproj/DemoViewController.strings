@@ -1,12 +1,12 @@
 
 /* Class = "UILabel"; text = "ISSUE"; ObjectID = "Mrj-Ia-Hyl"; */
-"Mrj-Ia-Hyl.text" = "ISSUE";
+"Mrj-Ia-Hyl.text" = "EN ISSUE";
 
 /* Class = "UILabel"; text = "POST"; ObjectID = "U8F-A7-Sj0"; */
-"U8F-A7-Sj0.text" = "POST";
+"U8F-A7-Sj0.text" = "EN POST";
 
 /* Class = "UILabel"; text = "MINOR"; ObjectID = "XRi-oi-NXd"; */
-"XRi-oi-NXd.text" = "MINOR";
+"XRi-oi-NXd.text" = "EN MINOR";
 
 /* Class = "UILabel"; text = "Common"; ObjectID = "r21-wn-gz0"; */
-"r21-wn-gz0.text" = "Common";
+"r21-wn-gz0.text" = "En Common";
